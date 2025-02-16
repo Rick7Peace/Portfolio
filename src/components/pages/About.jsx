@@ -28,7 +28,7 @@ function About() {
         {/* This <p> is a paragraph containing a description */}
         {/* It's centered, uses a larger font size ('text-lg'), with light font weight ('font-light'). */}
         {/* 'text-gray-400' sets the text color to a medium gray */}
-        I am a passionate web developer and UI/UX designer with a profound understanding of user experience and digital products. I have worked on various projects, from small startups to large multinational corporations, showcasing my creativity, problem-solving skills, and ability to collaborate effectively with team members.
+        I am a passionate web developer and a profound understanding of user experience and digital products. I have worked on various projects, from small startups to large multinational corporations, showcasing my creativity, problem-solving skills, and ability to collaborate effectively with team members.
         {/* The paragraph contains a brief introduction about the person */}
       </p>
       
@@ -37,7 +37,7 @@ function About() {
         {/* 'flex' enables flexbox layout, and 'justify-center' centers the content horizontally */}
         {/* 'mt-8' adds margin to the top of this container */}
         
-        <img src='./images/profile.jpg' alt='Profile Picture' className='rounded-full w-32 h-32 object-cover' />
+        <img src='./assets/IMG_3764.jpeg' alt='Profile Picture' className='rounded-full w-32 h-32 object-cover' />
         {/* This <img> is the profile picture of the person */}
         {/* 'src' specifies the path to the image (./images/profile.jpg) */}
         {/* 'alt' provides an alternative text description for the image if it can't be displayed */}
@@ -45,6 +45,7 @@ function About() {
         {/* 'w-32' sets the image width to 8rem (32 * 0.25rem) */}
         {/* 'h-32' sets the image height to 8rem */}
         {/* 'object-cover' ensures the image covers the assigned width and height without distorting the aspect ratio */}
+        
       </div>
     </div>
   );

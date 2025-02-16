@@ -18,7 +18,7 @@ export default function Resume() {
       {/* 'mb-4' adds margin to the bottom of the heading (4 units) to create space between the heading and the content below. */}
 
       <a
-        href="assets/Updated Resume.pdf"
+        href="assets/Ricardo Resume 2023.pdf"
         download
         className="bg-stone-300 text-stone-700 text-lg md:text-xl px-10 py-2 md:px-24 rounded-xl"
       >

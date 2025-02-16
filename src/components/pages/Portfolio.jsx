@@ -14,22 +14,22 @@ export default function Portfolio() {
       title: "Multi-Dictionary",
       img: "assets/",
       liveLink: "",
-      repoLink: "",
+      repoLink: "https://github.com/DeenTradesCode/Multi-Dictionary-App",
     },
     // This object represents the first project, "Multi-Dictionary", and includes placeholders for its image, live demo link, and GitHub repo link.
     // The 'title' field holds the name of the project, 'img' is the path to the image, 'liveLink' is for the live demo URL, and 'repoLink' is for the GitHub repository.
 
     {
       title: "Weather Dashboard",
-      img: "assets/",
-      liveLink: "",
-      repoLink: "",
+      img: "assets/weather dash board ss copy.png",
+      liveLink: "https://weather-forecast-app-aigi.onrender.com/",
+      repoLink: "https://github.com/Rick7Peace/Weather-Dashboard",
     },
     // This object represents the second project, "Weather Dashboard", with similar data fields (title, img, liveLink, repoLink).
 
     {
       title: "README Generator",
-      img: "assets/",
+      img: "assets/README Generator.png",
       liveLink: "",
       repoLink: "",
     },
@@ -45,9 +45,9 @@ export default function Portfolio() {
 
     {
       title: "Vehicle Builder",
-      img: "assets/",
+      img: "assets/Vehicle Builder.png",
       liveLink: "",
-      repoLink: "",
+      repoLink: "https://github.com/Rick7Peace/Vehicle-Builder",
     },
     // This object represents the fifth project, "Vehicle Builder", with similar data fields.
 
