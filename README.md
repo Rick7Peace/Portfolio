@@ -31,7 +31,7 @@ If you’d like to contribute or suggest improvements, feel free to open a pull 
 You can reach me via marmolejo.ricardo@gmail.com
 
 # Live Site
-The portfolio is live and can be viewed here: 
+The portfolio is live and can be viewed here: https://ricardomarmolejoportfolio.netlify.app/portfolio
 
 
 
